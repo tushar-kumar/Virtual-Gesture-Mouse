@@ -6,7 +6,7 @@ Virtual Gesture Mouse is a Python project that allows you to control your comput
 
 ## Table of Contents
 
-- [Demo](#demo)
+<!-- - [Demo](#demo)-->
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
